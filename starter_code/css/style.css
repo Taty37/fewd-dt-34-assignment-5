@@ -123,20 +123,24 @@ header {
   background: #fff600;
 }
 
+.starter-image {
+  background: url(../images/citipix_skyline.jpg) no-repeat center center fixed;
+}
+
 .nyc {
-  background-image: url(../images/nyc.jpg)
+  background: url(../images/nyc.jpg) no-repeat center center fixed;
 }
 .sf {
-  background-image: url(../images/sf.jpg)
+  background: url(../images/sf.jpg) no-repeat center center fixed;
 }
 .la {
-  background-image: url(../images/la.jpg)
+  background: url(../images/la.jpg) no-repeat center center fixed;
 }
 .austin {
-  background-image: url(../images/austin.jpg)
+  background: url(../images/austin.jpg) no-repeat center center fixed;
 }
 .sydney {
-  background-image: url(../images/sydney.jpg)
+  background: url(../images/sydney.jpg) no-repeat center center fixed;
 }
 
 /******************************************
